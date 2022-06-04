@@ -1,1 +1,9 @@
-
+[
+{
+"name" : "plains",
+"type" : "land",
+"movementCost" : 1,
+"food" : 2
+"RGB" : [50, 162, 82]
+}
+]
